@@ -35,7 +35,7 @@ Greetings! My name is Omer Gamliel, and I am a B.Sc. student in Information Syst
 <br/>
 
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/omergamliel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omergamliel&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omergamliel&theme=buefy&layout=compact" />
 </a>
